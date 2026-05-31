@@ -21,7 +21,7 @@ I am a passionate **Aspiring Software Engineer** currently deep-diving into the 
 ---
 
 ### 🤝 Let's Connect:
-- 💼 **LinkedIn:** [Mansi Bansal](www.linkedin.com/in/mansi-bansal-714b67412)
+- 💼 **LinkedIn:** [Mansi Bansal](https://www.linkedin.com/in/mansi-bansal-714b67412)
 - 🐦 **Activity:** I share my weekly progress reports and tech insights on LinkedIn.
 
 ---
